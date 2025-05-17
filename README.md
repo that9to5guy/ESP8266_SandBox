@@ -9,7 +9,7 @@ I will keep updating it with new projects as I gain experience.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ESP8266_SandBox.git
+   git clone https://github.com/that9to5guy/ESP8266_SandBox.git
    ```
 
 2. Open the folder in VS Code with the PlatformIO extension installed.
