@@ -1,7 +1,6 @@
 # ESP8266_SandBox
 
-This repository is my personal space to learn and practice programming the ESP8266 NodeMCU V3 board using PlatformIO.  
-It contains example projects, experiments, and code snippets to build practical skills and explore ESP8266 features.  
+This repository is my personal space to learn and practice programming the ESP8266 NodeMCU V3 board using PlatformIO. It contains example projects, experiments, and code snippets to build practical skills and explore ESP8266 features.  
 I will keep updating it with new projects as I gain experience.
 
 ## Requirements
