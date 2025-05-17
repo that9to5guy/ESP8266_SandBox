@@ -4,18 +4,6 @@ This repository is my personal space to learn and practice programming the ESP82
 It contains example projects, experiments, and code snippets to build practical skills and explore ESP8266 features.  
 I will keep updating it with new projects as I gain experience.
 
-## Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/that9to5guy/ESP8266_SandBox.git
-   ```
-
-2. Open the folder in VS Code with the PlatformIO extension installed.
-
-3. Build and upload code to your ESP8266 NodeMCU V3 board.
-
 ## Requirements
 
 - ESP8266 NodeMCU V3 development board  
@@ -23,6 +11,18 @@ I will keep updating it with new projects as I gain experience.
 - USB-to-Serial drivers installed (e.g., CP2102 or CH340 drivers depending on your board)  
 - PlatformIO IDE (recommended as a VS Code extension)  
 - Basic knowledge of C/C++ and microcontroller programming
+
+## Projects in This Repository
+
+- `01_HelloWorld/`  
+  A simple "Hello World Blinky" program for ESP8266 NodeMCU.  
+  Used to verify flashing, serial communication, and basic board operation.
+
+- `02_HW_info/`  
+  Prints detailed ESP8266 system and hardware information over Serial.  
+  Includes chip ID, flash specs, memory stats, and WiFi diagnostics.
+
+More project folders will be added as development continues.
 
 ## Contributing
 
