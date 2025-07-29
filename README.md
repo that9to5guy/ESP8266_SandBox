@@ -25,9 +25,9 @@ More project folders will be added as development continues.
 
 ## Pins on ESP8266 for Web Based Control Panel
 
-| Peripheral                      | Pin(s)                 | Notes                                |
-| ------------------------------- | ---------------------- | ------------------------------------ |
-| **UART (sensor sim)**           | GPIO1 (TX), GPIO3 (RX) | Bi-directional UART communication    |
+| Peripheral                      | Pin(s)                 | Notes                                | Examples      |
+| ------------------------------- | ---------------------- | ------------------------------------ | ------------- |
+| **UART (sensor sim)**           | GPIO1 (TX), GPIO3 (RX) | Bi-directional UART communication    | NEO-6M, EM-18 |
 | **Rotary Encoder**              | GPIO16, GPIO4          | GPIO16 no interrupt, GPIO4 safe GPIO |
 | **Analog Simulation (PWM)**     | GPIO5                  | PWM output for analog signal         |
 | **Push Button (digital input)** | GPIO12                 | Button input with pull-up            |
