@@ -23,6 +23,17 @@ I will keep updating it with new projects as I gain experience.
 
 More project folders will be added as development continues.
 
+## Pins on ESP8266 for Web Based Control Panel
+
+| Peripheral                      | Pin(s)                 | Notes                                |
+| ------------------------------- | ---------------------- | ------------------------------------ |
+| **UART (sensor sim)**           | GPIO1 (TX), GPIO3 (RX) | Bi-directional UART communication    |
+| **Rotary Encoder**              | GPIO16, GPIO4          | GPIO16 no interrupt, GPIO4 safe GPIO |
+| **Analog Simulation (PWM)**     | GPIO5                  | PWM output for analog signal         |
+| **Push Button (digital input)** | GPIO12                 | Button input with pull-up            |
+| **Switch (digital input)**      | GPIO13                 | Switch input with pull-up            |
+| **LED (digital output)**        | GPIO14                 | Onboard or external LED output       |
+
 ## Contributing
 
 This repo is mainly for my personal learning but feel free to fork or send pull requests if you find improvements.
